@@ -34,6 +34,7 @@ header nav a {
 }
 
 /* slider */
+
 .slider {
   /* ukurannya memenuhi layar */
   width: 100vw;
@@ -208,4 +209,123 @@ header nav a {
 .arrows button:hover {
   background: blue;
   color: white;
+}
+
+/* starting animation */
+
+.slider .list .item:nth-child(1) {
+  z-index: 1;
+}
+
+.slider .list .item:nth-child(1) .title,
+.slider .list .item:nth-child(1) .name,
+.slider .list .item:nth-child(1) figure,
+.slider .list .item:nth-child(1) .desc,
+.slider .list .item:nth-child(1) .more {
+  transform: translateY(50px);
+  filter: blur(50px);
+  opacity: 0;
+  animation: showDetail 0.5s 1s linear 1 forwards;
+}
+
+@keyframes showDetail {
+  to {
+    transform: translateY(0);
+    filter: blur(0);
+    opacity: 1;
+  }
+}
+
+.slider .list .item:nth-child(1) .title {
+  animation-delay: 1s;
+}
+.slider .list .item:nth-child(1) .name {
+  animation-delay: 1.2s;
+}
+.slider .list .item:nth-child(1) figure {
+  animation-delay: 1.4s;
+}
+.slider .list .item:nth-child(1) .desc {
+  animation-delay: 1.6s;
+}
+.slider .list .item:nth-child(1) .more {
+  animation-delay: 1.8s;
+}
+
+/* action next */
+
+/* kalau slider ada kelas next nya */
+.slider.next .list .item:nth-child(1) > img {
+  width: 150px;
+  height: 220px;
+  position: absolute;
+  left: 50%;
+  bottom: 50px;
+  border-radius: 15px;
+  animation: growImage 0.5s linear 1 forwards;
+}
+
+@keyframes growImage {
+  to {
+    width: 100%;
+    height: 100%;
+    left: 0;
+    bottom: 0;
+    border-radius: 0;
+  }
+}
+
+.slider.next .thumbnail .item:nth-last-child(1) {
+  width: 0;
+  overflow: hidden;
+  opacity: 0;
+  animation: showThumbnail 0.5s linear 1 forwards;
+}
+
+@keyframes showThumbnail {
+  to {
+    width: 150px;
+    opacity: 1;
+  }
+}
+
+.slider.next .thumbnail {
+  transform: translateX(150px);
+  animation: transformThumbnail 0.5s linear 1 forwards;
+}
+
+@keyframes transformThumbnail {
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* action previous */
+
+.slider.prev .list .item:nth-child(2) {
+  z-index: 2;
+}
+
+.slider.prev .list .item:nth-child(2) > img {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  animation: shrinkImage 0.5s linear 1 forwards;
+}
+
+@keyframes shrinkImage {
+  to {
+    width: 150px;
+    height: 220px;
+    border-radius: 15px;
+    left: 50%;
+    bottom: 50px;
+  }
+}
+
+.slider.prev .thumbnail .item:nth-child(1) {
+  width: 0;
+  overflow: hidden;
+  opacity: 0;
+  animation: showThumbnail 0.5s linear 1 forwards;
 }
