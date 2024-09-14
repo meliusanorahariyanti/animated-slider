@@ -21,9 +21,9 @@ Temukan keindahan desain web dengan animasi slider bertema Valorant, dibuat sepe
 ### Hasil Tampilan
 
 <p align="center">
-  <img src="result/screenshot1.png" alt="Hasil Tampilan Website 1" width="600">
-  <img src="result/screenshot2.png" alt="Hasil Tampilan Website 2" width="600">
-  <img src="result/screenshot3.png" alt="Hasil Tampilan Website 3" width="600">
+  <img src="result/screenshoot1.png" alt="Hasil Tampilan Website 1" width="600">
+  <img src="result/screenshoot2.png" alt="Hasil Tampilan Website 2" width="600">
+  <img src="result/screenshoot3.png" alt="Hasil Tampilan Website 3" width="600">
 </p>
 
 **Catatan**: Video demo dari website ini akan segera ditambahkan di bawah ini.
