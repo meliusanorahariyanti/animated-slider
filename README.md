@@ -1,45 +1,47 @@
-# Website Sederhana dengan Animasi Slider Bertema Valorant Menggunakan HTML, CSS, & JavaScript
+# Website Sederhana dengan Animasi Slider
 
-Temukan keindahan desain web dengan animasi slider bertema Valorant, dibuat sepenuhnya menggunakan HTML, CSS, dan JavaScript tanpa framework. Website ini menampilkan elemen-elemen visual yang terinspirasi dari game Valorant, memberikan pengalaman yang dinamis dan menarik.
+🎮 **Tema: Valorant** 🎮
 
-## Kredit & Referensi
+Selamat datang di website sederhana kami! Website ini dirancang sepenuhnya dengan HTML, CSS, dan JavaScript tanpa framework. Dengan tema Valorant, website ini menawarkan animasi slider yang keren dan desain yang memikat.
 
-- [Video Tutorial](https://www.youtube.com/watch?v=j7GG009J9uc&t=0s) - Referensi dalam pengembangan website ini
+## 📚 Kredit & Referensi
 
-## Tautan Penting
+- [Referensi](https://www.youtube.com/watch?v=j7GG009J9uc&t=0s) 
 
-- [Liquipedia Dota 2](https://liquipedia.net/dota2game)
-- [Valorant](https://playvalorant.com/id-id/)
-- [Best CSS](https://github.com/Lazzzer00/Best-CSS)
+## 🌐 Tautan Penting
+
+- [Valorant](https://playvalorant.com/) 
+- [Best CSS](https://github.com/Lazzzer00/Best-CSS) 
 - [Coolors Gradients](https://coolors.co/gradients)
 - [Google Fonts](https://fonts.google.com/)
 
-## Dukungan Mely
+## 💖 Dukung Mely
 
-- [LinkThree](linkthree/saweria) - Link dukungan (akan ditambahkan nanti)
+- [Linkthree]([linkthree/saweria](https://linktr.ee/meliusa)) 
 
-### Hasil Tampilan
+### 🖼️ Hasil Website
 
 <p align="center">
-  <img src="result/screenshoot1.png" alt="Hasil Tampilan Website 1" width="600">
-  <img src="result/screenshoot2.png" alt="Hasil Tampilan Website 2" width="600">
-  <img src="result/screenshoot3.png" alt="Hasil Tampilan Website 3" width="600">
+  <img src="result/ss1.png" alt="Tampilan Website" width="600">
+  <img src="result/ss2.png" alt="Tampilan Website" width="600">
+  <img src="result/ss3.png" alt="Tampilan Website" width="600">
 </p>
 
-**Catatan**: Video demo dari website ini akan segera ditambahkan di bawah ini.
+### 📹 Video Demo
 
-### Video Demo
+<p align="center">
+  <video width="600" controls>
+    <source src="result/record.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
-[![Video Demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+## 📲 Ikuti Media Sosial Saya
 
-Gantilah `VIDEO_ID` dengan ID video YouTube Anda yang sebenarnya.
-
-## Ikuti Media Sosial Saya 📢
-
-Temukan saya di media sosial:
+Temukan saya di media sosial untuk update terbaru dan konten menarik:
 
 - [Instagram](https://www.instagram.com/yourusername)
 - [Twitter](https://twitter.com/yourusername)
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
 
-Terima kasih dan #janganlupatitikkoma!
+Terima kasih telah mengunjungi dan #janganlupatitikkoma!
