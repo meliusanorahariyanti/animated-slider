@@ -329,3 +329,62 @@ header nav a {
   opacity: 0;
   animation: showThumbnail 0.5s linear 1 forwards;
 }
+
+.slider.prev .list .item:nth-child(2) .title,
+.slider.prev .list .item:nth-child(2) .name,
+.slider.prev .list .item:nth-child(2) figure,
+.slider.prev .list .item:nth-child(2) .desc,
+.slider.prev .list .item:nth-child(2) .more {
+  animation: hideDetail 0.5s 1s linear 1 forwards;
+}
+
+@keyframes hideDetail {
+  to {
+    transform: translateY(-150px);
+    filter: blur(20px);
+    opacity: 0;
+  }
+}
+
+.slider.next .arrows button,
+.slider.prev .arrows button {
+  pointer-events: none;
+}
+
+.loading-bar {
+  width: 0%;
+  height: 5px;
+  background-color: blue;
+  position: absolute;
+  z-index: 999;
+  top: 0;
+  left: 0;
+}
+
+.slider.next .loading-bar {
+}
+
+.slider.prev .loading-bar,
+.slider.next .loading-bar {
+  width: 100%;
+  animation: loadingTime 2s linear 1 forwards;
+}
+
+@keyframes loadingTime {
+  to {
+    width: 0;
+  }
+}
+
+/* mobile breakpoint */
+
+@media screen and (max-width: 678px) {
+  .slider .list .item .detail .name {
+    font-size: 2.8rem;
+    line-height: 2.8;
+  }
+
+  .slider .list .item .detail .desc {
+    font-size: 0.8rem;
+  }
+}
