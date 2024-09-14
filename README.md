@@ -6,16 +6,16 @@ Selamat datang di website sederhana kami! Didesain sepenuhnya menggunakan HTML, 
 
 ## 📚 Kredit & Referensi
 
-- [Referensi](https://www.youtube.com/watch?v=j7GG009J9uc&t=0s) 
+- [Referensi](https://www.youtube.com/watch?v=j7GG009J9uc&t=0s)
 
 ## 🌐 Tautan Penting
 
-- [Valorant](https://playvalorant.com/)
+- [Valorant](https://playvalorant.com/) 
 - [Best CSS](https://github.com/Lazzzer00/Best-CSS)
-- [Coolors Gradients](https://coolors.co/gradients)
-- [Google Fonts](https://fonts.google.com/)
+- [Coolors Gradients](https://coolors.co/gradients) 
+- [Google Fonts](https://fonts.google.com/) 
 
-## 💖 Dukung Mely
+## 💖 Dukung
 
 - [Linktree](https://linktr.ee/meliusa) 
 
@@ -31,7 +31,9 @@ Selamat datang di website sederhana kami! Didesain sepenuhnya menggunakan HTML, 
 
 Lihat video demo dari website ini di folder `result` dengan nama file `record.mp4`.
 
-## 📲 Ikuti Kami di Media Sosial
+## ⭐️ Starnya KK
+
+## 📲 Ikuti di Media Sosial
 
 Temukan kami di berbagai platform media sosial untuk update terbaru dan konten menarik:
 
@@ -40,5 +42,4 @@ Temukan kami di berbagai platform media sosial untuk update terbaru dan konten m
 - [Facebook](https://www.facebook.com/meliusa)
 - [TikTok](https://www.tiktok.com/@meliusa26)
 
-
-Terima kasih telah mengunjungi! Mely harap Anda menikmati konten ini dan tetap terhubung untuk pembaruan terbaru.
+Terima kasih telah mengunjungi! ❤️
