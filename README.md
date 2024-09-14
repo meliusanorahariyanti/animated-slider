@@ -1,45 +1,43 @@
-# Website Sederhana dengan Animasi Slider
+# SIMPLE WEBSITE WITH SLIDER ANIMATION
 
-🎮 **Tema: Valorant** 🎮
+🎮 **THEME: VALORANT** 🎮
 
-Selamat datang di website sederhana kami! Didesain sepenuhnya menggunakan HTML, CSS, dan JavaScript tanpa framework, website ini menghadirkan animasi slider yang memukau dengan tema Valorant. Nikmati desain yang keren dan pengalaman visual yang menawan!
+Welcome to my simple website! Designed entirely using HTML, CSS, and JavaScript without any frameworks, this site features an impressive slider animation with a Valorant theme. Enjoy the sleek design and captivating visual experience!
 
-## 📚 Kredit & Referensi
+## 📚 BIG THANKS TO
 
-- [Referensi](https://www.youtube.com/watch?v=j7GG009J9uc&t=0s)
+- [Reference](https://www.youtube.com/watch?v=j7GG009J9uc&t=0s) - Special thanks for the inspiration!
 
-## 🌐 Tautan Penting
+## 🌐 KEY LINKS
 
-- [Valorant](https://playvalorant.com/) 
-- [Best CSS](https://github.com/Lazzzer00/Best-CSS)
-- [Coolors Gradients](https://coolors.co/gradients) 
-- [Google Fonts](https://fonts.google.com/) 
+- [Valorant](https://playvalorant.com/) - Explore more about Valorant
+- [Best CSS](https://github.com/Lazzzer00/Best-CSS) - A collection of excellent CSS references
+- [Coolors Gradients](https://coolors.co/gradients) - Stylish gradient palettes for design
+- [Google Fonts](https://fonts.google.com/) - Font choices to make your website stand out
 
-## 💖 Dukung
+## ⭐️ SUPPORT
 
-- [Linktree](https://linktr.ee/meliusa) 
+- [Linktree](https://linktr.ee/meliusa) - Your support is greatly appreciated! If you like this project, please consider giving it a star ⭐
 
-### 🖼️ Hasil Website
+### 🖼️ WEBSITE PREVIEW
 
 <p align="center">
-  <img src="result/ss1.png" alt="Tampilan Website 1" width="600">
-  <img src="result/ss2.png" alt="Tampilan Website 2" width="600">
-  <img src="result/ss3.png" alt="Tampilan Website 3" width="600">
+  <img src="result/ss1.png" alt="Website Screenshot 1" width="600">
+  <img src="result/ss2.png" alt="Website Screenshot 2" width="600">
+  <img src="result/ss3.png" alt="Website Screenshot 3" width="600">
 </p>
 
-### 📹 Video Demo
+### 📹 VIDEO DEMO
 
-Lihat video demo dari website ini di folder `result` dengan nama file `record.mp4`.
+Check out the demo video of this website in the `result` folder under the filename `record.mp4`.
 
-## ⭐️ Starnya KK
+## 📲 FOLLOW ME!
 
-## 📲 Ikuti di Media Sosial
-
-Temukan kami di berbagai platform media sosial untuk update terbaru dan konten menarik:
+Connect with me on social media for the latest updates and exciting content:
 
 - [LinkedIn](https://www.linkedin.com/in/meliusanorahariyanti)
 - [Instagram](https://www.instagram.com/meliusa26)
 - [Facebook](https://www.facebook.com/meliusa)
 - [TikTok](https://www.tiktok.com/@meliusa26)
 
-Terima kasih telah mengunjungi! ❤️
+Thank you for visiting! ❤️
