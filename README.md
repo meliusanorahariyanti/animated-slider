@@ -40,8 +40,7 @@ Selamat datang di website sederhana kami! Website ini dirancang sepenuhnya denga
 
 Temukan saya di media sosial untuk update terbaru dan konten menarik:
 
-- [Instagram](https://www.instagram.com/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [Instagram](https://www.instagram.com/meliusa26)
+- [LinkedIn](https://www.linkedin.com/in/meliusanorahariyanti)
 
-Terima kasih telah mengunjungi dan #janganlupatitikkoma!
+Terima kasih telah mengunjungi!
