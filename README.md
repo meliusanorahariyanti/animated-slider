@@ -6,14 +6,14 @@ Welcome to my simple website! Designed entirely using HTML, CSS, and JavaScript 
 
 ## 📚 BIG THANKS TO
 
-- [Reference](https://www.youtube.com/watch?v=j7GG009J9uc&t=0s) - Special thanks for the inspiration!
+- [Reference](https://www.youtube.com/watch?v=j7GG009J9uc&t=0s) 
 
 ## 🌐 KEY LINKS
 
-- [Valorant](https://playvalorant.com/) - Explore more about Valorant
-- [Best CSS](https://github.com/Lazzzer00/Best-CSS) - A collection of excellent CSS references
-- [Coolors Gradients](https://coolors.co/gradients) - Stylish gradient palettes for design
-- [Google Fonts](https://fonts.google.com/) - Font choices to make your website stand out
+- [Valorant](https://playvalorant.com/) 
+- [Best CSS](https://github.com/Lazzzer00/Best-CSS) 
+- [Coolors Gradients](https://coolors.co/gradients) 
+- [Google Fonts](https://fonts.google.com/) 
 
 ## ⭐️ SUPPORT
 
